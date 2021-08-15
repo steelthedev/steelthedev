@@ -21,7 +21,6 @@ I create web applications with Django and ensure its smooths running with react 
 
 I have my stacks in Django and React js. Python development is also a forte. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordghostx&theme=tokyonight)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=steelthedev&theme=dark&hide_border=true)](https://git.io/streak-stats)

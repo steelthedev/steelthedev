@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Akinwumi Iyanuoluwa Ayomiposi a full stack developer and a final year metabolite. 
+
+I create web applications with Django and ensure its smooths running with react js. 
+
+I have my stacks in Django and React js. Python development is also a forte. 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=steelthedev)](https://git.io/streak-stats)
+

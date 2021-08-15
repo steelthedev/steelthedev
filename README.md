@@ -23,5 +23,5 @@ I have my stacks in Django and React js. Python development is also a forte.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=steelthedev)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordghostx&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelthedev&count_private=true)
 

@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I am Akinwumi Iyanuoluwa Ayomiposi a full stack developer and a final year metabolite. 
 
-I create web applications with Django and ensure its smooths running with react js. 
+I create web applications with Django and Vue on the front end . 
 
-I have my stacks in Django and React js. Python development is also a forte. 
+I have my stacks in Django and Vue js. Python development is also a forte. 
 
 
 

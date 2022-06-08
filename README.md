@@ -21,8 +21,3 @@ I create web applications with Django and Vue on the front end .
 
 I have my stacks in Django and Vue js. Python development is also a forte. 
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=steelthedev&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steelthedev&count_private=true)
-

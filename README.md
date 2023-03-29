@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Akinwumi Iyanuoluwa Ayomiposi a full stack developer and a final year metabolite. 
+I am Akinwumi Iyanuoluwa Ayomiposi a full stack developer and a Biochemist
+. 
 
 I create web applications with Django and Vue on the front end . 
 

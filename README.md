@@ -18,7 +18,4 @@ Here are some ideas to get you started:
 I am Akinwumi Iyanuoluwa Ayomiposi a software developer and a Biochemist
 . 
 
-I create web applications with Django and Vue on the front end . 
-
-I have my stacks in Django and Vue js. Python development is also a forte. 
-
+A Pythonista, Gopher and Horror movie freak.
